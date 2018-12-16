@@ -1,0 +1,1 @@
+module.exports.SEED = '@seed-c@d@va-muy-dificil-de-encontrar';
